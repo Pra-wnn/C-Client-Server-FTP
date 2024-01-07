@@ -1,0 +1,25 @@
+Extract the Zip 
+
+Change Dir 
+
+Compile with gcc
+
+gcc -o fileclient fileclient.c
+gcc -o fileserver fileserver.c
+
+run the indiviual code
+
+for server:
+./fileserver
+
+
+for client:
+./fileclient 127.0.0.1 /path/to/your/file.txt
+
+
+Example code for client:
+
+./fileclient 127.0.0.1 /home/proteus/Documents/linux.pdf
+
+
+The data should be copied to the server code running directory in this case file_2023-07-26_09-45-14.pdf
