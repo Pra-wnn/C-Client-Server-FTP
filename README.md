@@ -1,5 +1,7 @@
-# C-Client-Server-FTP
-A simple client server FTP made for Network Programming Class Project
+# C-Client-Server-FTP 
+A simple client server FTP made for Network Programming Class Project for Linux Systems.
+
+NOTE: THIS PROGRAM IS MEANT TO BE RUN IN LINUX SYSTEMS . FOR WINDOWS THERE ARE FURTHER CHANGES NEED TO BE MADE.
 
 ![Image Example 1 ](https://github.com/Pra-wnn/C-Client-Server-FTP/blob/main/Screenshot%20(5909).png)
 
