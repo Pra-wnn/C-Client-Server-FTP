@@ -19,6 +19,7 @@ Change Dir
 Compile with gcc
 
 gcc -o fileclient fileclient.c
+
 gcc -o fileserver fileserver.c
 
 run the indiviual code
